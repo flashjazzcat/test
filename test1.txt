@@ -1,3 +1,5 @@
 Text file 1
 
 edit
+
+Edit 2
